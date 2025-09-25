@@ -37,7 +37,7 @@ Aplicación web para fomentar la lectura mediante una biblioteca digital interac
 
  👤 Autor
 
-**Manuel Padilla**  
+**Grupo de Telematca**  
 GitHub: [padillama23](https://github.com/padillama23)  
 Autodidacta en desarrollo web y backend
 
